@@ -9,3 +9,4 @@
 ## Referencia
 https://stackoverflow.com/questions/23614588/encode-an-object-with-avro-to-a-byte-array-in-python/25130722#25130722
 https://avro.apache.org/docs/1.11.1/getting-started-python/
+https://stackoverflow.com/questions/60557378/having-trouble-writing-out-avro-as-array-of-bytes-and-then-reading-it-back
